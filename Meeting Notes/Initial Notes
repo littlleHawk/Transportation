@@ -1,0 +1,27 @@
+# Initial Ideas
+
+## Questions/Objectives
+Measure at what point transport becomes viable to the public
+	- timeliness
+	- cleanlinees
+	
+Comparison between low usage rates and high usage rates
+	How long before US transport becomes viable?
+	Comparison of networks between similar sized and *sprawled* cities and how that can be implemented
+	
+How can we optimize transnational shipping routes
+	- routes in the arctic
+	- impact of storms
+	- cost of delays
+	- seasonal optimization of routes
+	
+
+## Stats methods we want to explore
+- Deep Learning
+	- Image analysis suboptimal -> optimal. Where to best place stops?
+- Time series -> Talk to Dr. Lee
+
+
+# TODO
+- Talk to Dr. Lee re Time series and deep learning
+- Get a bunch of data into one forlder to discuss
